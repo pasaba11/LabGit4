@@ -24,6 +24,6 @@ Tareas relacionadas
 2. Crear un proyecto Web dinámico
 
 Tareas relacionadas  
-[ ] Crear un proyecto Web estático  
-[x] Crear un proyecto Web dinámico
+- [ ] Crear un proyecto Web estático  
+- [x] Crear un proyecto Web dinámico
 
