@@ -4,3 +4,4 @@
 **Estudiamos Git para usarlo en proyectos de diseño web**
 ***
 *Esto es un texto en cursiva*
+**Esto es un texto en negrita**
