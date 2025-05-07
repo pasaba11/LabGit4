@@ -4,4 +4,4 @@
 Estudiamos Git para usarlo en proyectos de diseño web **profesional** que podemos crear con *herramientas*
 ***
 ***Esto es un texto en negrita y cursiva***    
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales. >  — Mahatma Gandhi
+> Un país, una civilización se puede juzgar por la forma en que trata a sus animales. <  — Mahatma Gandhi
