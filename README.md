@@ -25,7 +25,6 @@ Tareas relacionadas
 - [ ] Crear un proyecto Web estático  
 - [x] Crear un proyecto Web dinámico
 
-Este sitio lo puedes buscar en las noticias de hoy [Ir al periódico El País] (https://www.elpaís.es/)
+Este sitio lo puedes buscar en las noticias de hoy [Ir al periódico El País] (https://www.elpaís.com/)  
 
-
-This
+![]
