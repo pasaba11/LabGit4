@@ -17,10 +17,10 @@ Aunque el proyecto Web está estructurado en el sistema de archivos de acuerdo c
 Conceptos relacionados  
 - Proyectos Web estáticos  
 - Aplicaciones y proyectos Web dinámicos
-- Archivos de archivado Web (WAR)
+- Archivos de archivado Web (WAR)  
 Tareas relacionadas  
 1. Crear un proyecto Web estático  
-2. Crear un proyecto Web dinámico
+2. Crear un proyecto Web dinámico  
 Tareas relacionadas  
 [ ] Crear un proyecto Web estático  
 [x] Crear un proyecto Web dinámico
