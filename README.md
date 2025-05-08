@@ -27,7 +27,7 @@ Tareas relacionadas
 - [ ] Crear un proyecto Web estático  
 - [x] Crear un proyecto Web dinámico
 
-Este sitio lo puedes buscar en las noticias de hoy [Ir al periódico El País] (https://www.elpaís.com/)  
+Este sitio lo puedes buscar en las noticias de hoy [Ir al periódico El País](https://www.elpaís.com/)  
 
 ![Ojo al aviso que hay en el Parque Natural de Ordesa](https://www.desnivel.com/images/2025/05/7-750x440.jpeg)
 
